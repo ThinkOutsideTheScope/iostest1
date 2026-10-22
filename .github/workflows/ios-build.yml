@@ -7,9 +7,9 @@ on:
 
 env:
   # Change these to match your project.
-  SCHEME: iostest1
-  PROJECT: iostest1.xcodeproj   # use WORKSPACE below instead if you use CocoaPods or a .xcworkspace
-  # WORKSPACE: iostest1.xcworkspace
+  SCHEME: IosTest1
+  PROJECT: IosTest1.xcodeproj   # use WORKSPACE below instead if you use CocoaPods or a .xcworkspace
+  # WORKSPACE: IosTest1.xcworkspace
 
 jobs:
   build-test-ipa:
